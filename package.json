@@ -1,0 +1,7 @@
+{
+    "name": "shopping-cart-app",
+    "private": true,
+    "dependencies": {
+        "react-router-dom": "^7.13.0"
+    }
+}
